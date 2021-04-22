@@ -7,9 +7,13 @@
 - Ous
 - Xocolata
 - Sucre
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 La valoració de la recepta és de 5.0
 =======
 Tiene 87 Kcal
 >>>>>>> 99e34889c47bc98fb2a34297ae7fe736109983e4
+=======
+- Heroína
+>>>>>>> fix_pastis
